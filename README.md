@@ -1,8 +1,8 @@
-## Glosity City MERN Task
+## Glosity Club MERN Task
 
 ### A basic react application that fetches data from mongodb using rest apis using express and node.js.
 
-## Time Spent : 4 hours
+## Time Spent : 4 hrs
 
 ##  Screenshots
 
